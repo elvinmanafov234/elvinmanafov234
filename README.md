@@ -1,6 +1,5 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Elvin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **Dev/Ops**
 
